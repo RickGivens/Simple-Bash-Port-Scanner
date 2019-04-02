@@ -1,4 +1,4 @@
-CS 62700 Project 1: Bash Port Scanner
+Simple Bash Port Scanner
 Richard Givens
 01/27/2019
 
